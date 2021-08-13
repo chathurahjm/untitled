@@ -49,7 +49,7 @@ public class AppTest
     /**
      * Rigorous Test :-)
      */
-    @Test
+   // @Test
     public void Validate_a_Valida_User_Login()
     {
         System.setProperty("webdriver.chrome.driver","/Users/chathurajayasinghe/Documents/Data/QA/chromedriver 4");
@@ -81,7 +81,7 @@ public class AppTest
 
     }
 
-    @Test
+  //  @Test
     public void Validate_a_Valida_User_Login_Mobile() throws MalformedURLException, InterruptedException {
 
         WebDriver driver;
